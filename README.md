@@ -1,6 +1,6 @@
 # HORTIFRUTI PYTHON
 
-**Autor:** João Geraldo da Silva Neto, FC20230222
+**ALUNO:** João Geraldo da Silva Neto, **MATRICULA**:FC20230222
 
 Este é um sistema básico de supermercado desenvolvido em Python. Ele gerencia o estoque de produtos, permite adicionar itens ao carrinho de compras, calcula o valor total da compra e realiza a finalização do processo de compra. 
 
